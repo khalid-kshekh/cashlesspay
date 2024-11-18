@@ -1,0 +1,59 @@
+.a-fifth{
+    width: 100%;
+    margin: 0 auto;
+     padding: 20px 65px;
+     margin-top: 50px;
+}
+.a-main-fifth{
+    max-width: 1360px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 20px;
+    background-color: #54725D;
+    padding: 50px 30px;
+    border-radius: 30px;
+    gap: 30px;
+}
+.a-first-fifth-part{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+   
+}
+.a-first-fifth-handing{
+    font-size: 50px;
+}
+.a-first-fifth-handing h2{
+    font-size: 1.1em;
+    font-weight: 600;
+    color: white;
+}
+.a-first-fifth-paragraph{
+ display: flex;
+ flex-direction: column;
+ gap: 20px;
+ font-size: 20px;
+}
+.a-first-fifth-paragraph h3{
+    font-size: 1.1em;
+    font-family: 'Uncut Sans';
+    font-weight: 300;
+    color: white;
+}
+.a-first-fifth-paragraph p{
+    font-size: 0.9em;
+    font-family: 'Uncut Sans';
+    font-weight: normal;
+    width: 500px;
+    color: white;
+}
+
+.a-second-fifth-part{
+    width: 100%;
+}
+.a-second-fifth-part img{
+    width: 100%;
+}

@@ -1,0 +1,48 @@
+.a-eight{
+    width: 100%;
+    margin: 0 auto;
+     padding: 20px 50px;
+     margin-top: 50px;
+}
+.a-main-eight{
+    max-width: 1360px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 20px;
+    /* background-color: #035B67; */
+    border-radius: 30px;
+    padding: 50px 225px;
+
+}
+.a-eight-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px; 
+    font-size: 80px;
+}
+.a-eight-item h1{
+    font-size: 1.2em;
+     font-weight: 800;
+     color: #ffff; 
+}
+.a-eight-item p{
+    font-size: 0.3em;
+    font-family: 'Uncut Sans';
+    font-weight: normal;
+    color: white;
+    width: 800px;
+}
+.a-eight-item button{
+    background-color:#0766FF;
+    color: white;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    font-size: 15px;
+    padding: 8px 8px; 
+}

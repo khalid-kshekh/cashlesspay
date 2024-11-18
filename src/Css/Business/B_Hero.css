@@ -1,0 +1,149 @@
+.hero{
+    width: 100%;
+    margin: 0 auto;
+     padding: 20px 65px;
+     margin-top: 50px;
+   
+}
+.main-hero{
+    max-width: 1360px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    /* background-color: #035B67; */
+    border-radius: 30px;
+   
+}
+.top-box{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    flex-direction: column;
+    gap: 30px;
+    /* background-color: #035B67; */
+    border-radius: 30px;
+   
+}
+.main-handing{
+    font-size: 70px;
+}
+.main-handing h1{
+    font-size: 1em;
+     font-weight: 800;
+     color: #ffff;  
+}
+.second-handing{
+  font-size: 30px;
+}
+.second-handing p{
+    font-size: 0.6em;
+    font-family: 'Uncut Sans';
+    font-weight: 500;
+    color: white;
+}
+ 
+.top-box button{
+    background-color:#0766FF;
+    color: white;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    font-size: 1.2em;
+    font-weight: 800;
+    padding: 10px 6px; 
+     margin-bottom: 50px;
+}
+.bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 70px 40px;
+    border-radius: 30px;
+   
+}
+
+.image{
+  width: 90%;
+   display: flex;
+   flex-direction: column;
+   gap: 50px;
+}
+.image img{
+    width: 100%;
+    border-radius: 20px;
+}
+.image .img-handing{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    flex-direction: column;
+    font-size: 20px;
+}
+.img-handing h1{
+    font-size: 1em;
+    font-family: 'Uncut Sans';
+    font-weight: 300;
+    color: white;
+}
+.img-handing p{
+    font-size: 0.7em;
+    font-family: 'Uncut Sans';
+    font-weight: 500;
+    color: white;
+}
+#spine{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    /* object-fit: contain; */
+}
+
+/* #spine:after {
+    content: "";
+    animation: spina 4s linear infinite;
+  } */
+
+  /* @keyframes spina {
+    0% {
+      content: "https://cdn.britannica.com/78/6078-050-18D5DEFE/Flag-Australia.jpg ";
+    }
+ 
+    10% {
+      content: " https://media.istockphoto.com/id/519611160/vector/flag-of-india.jpg?s=612x612&w=0&k=20&c=0HueaQHkdGC4Fw87s3DbeTE9Orv3mqHRLce88LV47E4= ";
+    }
+ 
+    20% {
+      content: " https://cdn.britannica.com/78/6078-050-18D5DEFE/Flag-Australia.jpg"; 
+    }
+ 
+    30% {
+      content: "  ";
+    }
+ 
+    40% {
+      content: " ";
+    }
+ 
+    50% {
+      content: " ";
+    }
+ 
+    60% {
+      content: " ";
+    }
+ 
+    70% {
+      content: " ";
+    }
+ 
+    80% {
+      content: " ";
+    }
+ 
+    90% {
+      content: " ";
+} 
+      } */
